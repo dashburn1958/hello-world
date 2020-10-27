@@ -1,5 +1,5 @@
 # hello-world
-Learing GitHub
+Learing GitHubs
 
 Tacos on the moon +2
 
